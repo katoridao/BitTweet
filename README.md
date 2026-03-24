@@ -7,7 +7,7 @@ BitTweet là một ứng dụng di động giúp khách hàng đặt đồ uốn
 
 ## Features
 
-### Khách hàng
+### Customer
 
 * Xem danh sách đồ uống (menu)
 * Đặt đồ uống nhanh chóng
@@ -15,7 +15,7 @@ BitTweet là một ứng dụng di động giúp khách hàng đặt đồ uốn
 * Theo dõi trạng thái đơn hàng
 * Nhận thông báo khi đơn thay đổi trạng thái
 
-### Chủ quán
+### Owner
 
 * Quản lý menu (thêm / sửa / xóa món)
 * Quản lý đơn hàng
