@@ -24,6 +24,11 @@ BitTweet là một ứng dụng di động giúp khách hàng đặt đồ uốn
 
 ---
 
+## Demo
+https://appetize.io/app/b_pastiojddv2nxmfuob2rfjyfum
+
+---
+
 ## Tech Stack
 
 * Mobile App: Java Android
