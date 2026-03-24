@@ -1,6 +1,7 @@
 # BitTweet
 
 BitTweet là một ứng dụng di động giúp khách hàng đặt đồ uống nhanh chóng và tiện lợi, đồng thời hỗ trợ quán quản lý menu, đơn hàng và thanh toán một cách hiệu quả.
+
 Ứng dụng hướng đến trải nghiệm đơn giản, nhanh và dễ dùng cho cả khách hàng và chủ quán.
 
 ---
