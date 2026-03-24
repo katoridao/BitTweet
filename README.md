@@ -40,4 +40,6 @@ https://appetize.io/app/b_pastiojddv2nxmfuob2rfjyfum
 
 ## Author
 
-* Đào Hoàng Anh
+* Đào Hoàng Anh (Leader, Tester)
+* Kiều Khánh Duy (Backend)
+* Cao Minh Hiếu (Frontend)
