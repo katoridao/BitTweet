@@ -24,17 +24,17 @@ BitTweet là một ứng dụng di động giúp khách hàng đặt đồ uốn
 
 ---
 
-## Demo
-https://appetize.io/app/b_pastiojddv2nxmfuob2rfjyfum
-
----
-
 ## Tech Stack
 
 * Mobile App: Java Android
 * Backend: Firebase
 * Database: Firebase
 * Notification: Firebase Cloud Messaging
+
+---
+
+## Demo
+https://appetize.io/app/b_pastiojddv2nxmfuob2rfjyfum
 
 ---
 
