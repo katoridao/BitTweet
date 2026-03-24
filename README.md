@@ -26,10 +26,10 @@ BitTweet là một ứng dụng di động giúp khách hàng đặt đồ uốn
 
 ## Tech Stack
 
-* Mobile App: Java
+* Mobile App: Java (Android)
 * Backend: Firebase
 * Database: Firebase
-* Notification: Firebase Cloud Messaging
+* Notification: Firebase Cloud Messaging (FCM)
 
 ---
 
