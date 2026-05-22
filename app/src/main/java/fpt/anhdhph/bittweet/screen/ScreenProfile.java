@@ -39,7 +39,7 @@ public class ScreenProfile extends AppCompatActivity {
     ImageView dpDob;
     EditText edtName, edtDob, edtPhone, edtEmail, edtAddress, edtPass;
     Button btnSave;
-    RadioButton rbMale, rbFemale;;
+    RadioButton rbMale, rbFemale;
     RadioGroup rgGender;
     SharedPreferences sharedPreferences;
     @Override

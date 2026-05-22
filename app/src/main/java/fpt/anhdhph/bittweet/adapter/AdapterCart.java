@@ -132,7 +132,8 @@ public class AdapterCart extends RecyclerView.Adapter<AdapterCart.CartViewHolder
                                     Toast.makeText(context, "Đã xóa sản phẩm khỏi giỏ hàng", Toast.LENGTH_SHORT).show();
                                 })
                                 .addOnFailureListener(e -> {
-                                    Toast.makeText(context, "Lỗi khi xóa sản phẩm: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(context, "Lỗi khi xóa sản phẩm: " + e.getMessage(),
+                                            Toast.LENGTH_SHORT).show();
                                 });
                     }
                 }
@@ -295,17 +296,20 @@ public class AdapterCart extends RecyclerView.Adapter<AdapterCart.CartViewHolder
                                                         if (listener != null) listener.onQuantityChanged();
                                                     })
                                                     .addOnFailureListener(e -> {
-                                                        Toast.makeText(context, "Lỗi khi cập nhật kích thước: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+                                                        Toast.makeText(context, "Lỗi khi cập nhật kích thước: " +
+                                                                e.getMessage(), Toast.LENGTH_SHORT).show();
                                                     });
                                         }
                                     })
                                     .addOnFailureListener(e -> {
-                                        Toast.makeText(context, "Lỗi khi kiểm tra giỏ hàng: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(context, "Lỗi khi kiểm tra giỏ hàng: " + e.getMessage(),
+                                                Toast.LENGTH_SHORT).show();
                                     });
                         }
                     })
                     .addOnFailureListener(e -> {
-                        Toast.makeText(context, "Lỗi khi lấy thông tin sản phẩm: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(context, "Lỗi khi lấy thông tin sản phẩm: " + e.getMessage(),
+                                Toast.LENGTH_SHORT).show();
                     });
         });
 
