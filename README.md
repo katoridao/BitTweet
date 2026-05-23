@@ -14,13 +14,15 @@
 - [Cài đặt](#-cài-đặt)
 - [Sử dụng](#-sử-dụng)
 - [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
-- [Tác giả](#-tác-giả)
+- [Nhóm phát triển](#-nhóm-phát-triển)
 
 ## Mô tả
 
 **BitTweet** là ứng dụng Android đặt đồ uống được xây dựng bằng Java và Firebase, cung cấp trải nghiệm mua hàng hiện đại với giao diện trực quan, quản lý đơn hàng và hỗ trợ thanh toán linh hoạt.
 
 Ứng dụng cho phép người dùng đăng ký tài khoản, duyệt sản phẩm, thêm vào giỏ hàng, thanh toán và theo dõi đơn hàng. Ngoài ra, hệ thống còn hỗ trợ nhân viên/quản trị viên quản lý sản phẩm, khách hàng và đơn hàng thông qua Firebase.
+
+Đây là dự án nhóm được phát triển bởi 3 thành viên.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://appetize.io/app/b_pastiojddv2nxmfuob2rfjyfum)
 
@@ -130,7 +132,28 @@ BitTweet/
 └── README.md
 ```
 
-## Tác giả
+## Nhóm phát triển
 
-- Đào Hoàng Anh
-- GitHub: @katoridao
+### Đào Hoàng Anh
+
+- Team Leader
+- Backend Development
+- Testing & Debugging
+
+GitHub: @katoridao
+
+### Kiều Khánh Duy
+
+- Android Development
+- Authentication Flow
+- Firebase Integration
+
+GitHub: @codertiger24
+
+### Cao Minh Hiếu
+
+- UI/UX Design
+- User Experience
+- Interface Implementation
+
+GitHub: @hieuKao
